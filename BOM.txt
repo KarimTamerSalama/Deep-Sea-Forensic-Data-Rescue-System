@@ -1,0 +1,21 @@
+Microcontroller:
+
+ESP32 Development Board (1x) - Central processing unit managing sensor inputs and actuation.
+
+Sensor:
+
+Waterproof Pressure Sensor (1x) - Analog pressure sensor connected to ADC pin to monitor water/ambient pressure continuously.
+
+Actuator / Mechanism:
+
+Solenoid Latch / Valve (1x) - Electromagnetic lock/valve controlled via GPIO pin to trigger the deployment mechanism.
+
+Power Supply:
+
+LiPo Battery (7.4V / 12V) (1x) - Main power source supplying the ESP32, sensor, and solenoid.
+
+Hardware & Structural:
+
+Titanium Alloy (Grade-5) Pressure Hull / Capsule Body (1x) - Main external waterproof enclosure designed for underwater deployment.
+
+Connecting Wires & Breadboard/PCB (As needed) - For circuit wiring.
