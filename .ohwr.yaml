@@ -1,0 +1,8 @@
+name: "Autonomous Deep-Sea Forensic Data Rescue System"
+description: "An autonomous hydro-mechanical and electronic system designed to retrieve critical forensic data from deep-sea disaster sites."
+category: "Subsea Hardware & Instrumentation"
+license: "CERN-OHL-S-v2"
+documentation: "README.md"
+authors:
+  - name: "Karim Tamer Salama"
+    affiliation: "Independent Researcher, Alexandria, Egypt"
