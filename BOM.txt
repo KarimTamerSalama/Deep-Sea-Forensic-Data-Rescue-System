@@ -4,7 +4,7 @@ ESP32 Development Board (1x) - Central processing unit managing sensor inputs an
 
 Sensor:
 
-Waterproof Pressure Sensor (1x) - Analog pressure sensor connected to ADC pin to monitor water/ambient pressure continuously.
+BMP280 Digital Pressure Sensor (SPI)-(1x)
 
 Actuator / Mechanism:
 
