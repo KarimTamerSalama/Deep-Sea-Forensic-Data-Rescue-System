@@ -2,6 +2,7 @@
 
 **Official Certifications & Licenses:**
 * **OSHWA Certified:** `UID EG000005` — [View Official Certificate](https://certification.oshwa.org/eg000005.html)
+* **Linux Foundation Quality & Security:** [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/16627/badge)](https://www.bestpractices.dev/projects/16627)
 * **Hardware License:** [CERN-OHL-S-2.0](https://ohwr.org)
 * **Software & Documentation License:** [MIT License](https://opensource.org)
 
