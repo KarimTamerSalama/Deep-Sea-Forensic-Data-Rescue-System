@@ -54,8 +54,10 @@ def read_pressure_hpa():
     
     return pressure_pa / 100.0
 
-# 4. Main control loop for fail-safe solenoid actuation
-SAFE_PRESSURE_LIMIT_HPA = 1050.0  # Threshold pressure limit (standard sea level ~1013 hPa)
+# Submersible Cabin Pressure Monitoring (Normal human cabin = 1 atm / ~1013.25 hPa).
+# In case of hull breach at abyssal depths (4,000m - 11,000m), cabin pressure spikes above 1 bar.
+# Threshold set to 1050.0 hPa (~1.05 bar) to trigger the Nitrogen hydraulic ejection piston immediately.
+SAFE_PRESSURE_LIMIT_HPA = 1050.0
 
 while True:
     current_pressure = read_pressure_hpa()
